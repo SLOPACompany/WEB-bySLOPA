@@ -254,6 +254,7 @@ img{
   font-size: var(--biggest-font-size);
   color: var(--first-color);
   margin-bottom: var(--mb-1);
+  text-align: center;
 }
 
 .home__subtitle{
