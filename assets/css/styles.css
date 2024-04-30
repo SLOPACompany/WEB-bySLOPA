@@ -248,6 +248,7 @@ img{
 .home__container{
   height: calc(100vh - var(--header-height));
   align-content: center;
+  margin-top: 10%;
 }
 
 .home__title{
@@ -294,7 +295,7 @@ img{
 
 .about__img{
   width: 280px;
-  border-radius: .5rem;
+  border-radius: 70px;
   justify-self: center;
 }
 
