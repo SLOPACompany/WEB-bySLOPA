@@ -326,6 +326,17 @@ img{
   padding: 0 1.5rem;
 }
 
+#videoyt{
+  justify-self: center;
+}
+@media screen and (max-width: 768px) {
+  #videoyt{
+    justify-self: center;
+    width: auto; 
+      height: auto; 
+  }
+}
+
 /* MENU */
 .menu__container{
   grid-template-columns: repeat(2, 1fr);
